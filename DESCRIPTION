@@ -2,7 +2,7 @@ Package: StatComp
 Type: Package
 Title: Example functions for 'Statistical Computing' course
 Version: 1.0
-Date: 2022-11-25
+Date: 2022-11-26
 Author: Hong Zhang
 Maintainer: Hong Zhang <325150499@qq.com>
 Description: Several R and Rcpp function are included in this package for illustration. 
